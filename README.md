@@ -6,7 +6,7 @@ This project aims to predict the likelihood of customers churning out from an on
 * The raw data contains 7043 rows (customers) and 21 columns (features).
 * The columns include different features like demographics, account information, services that they have signed for and churn (customers who left within last month).</br>
 ### Result
-After performing Confusion Matrix and Probability on Machine Algorithm model, we are left with two columns:
+After performing Confusion Matrix and Probability, we are left with two columns:
 1. Customer ID
 2. Probability of the customer to churn out
 
